@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViewBindingExample</string>
+    <string name="inflate_fragment_binding_message">Welcome to View Binding Fragment using inflate()</string>
+    <string name="activity_binding_message">Welcome to View Binding Activity</string>
+    <string name="binding_fragment_binding_message">Welcome to View Binding Fragment using bind()</string>
+</resources>
