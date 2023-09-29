@@ -8,3 +8,6 @@ It contains:
   2) Two Fragments as the there are two different ways to get the instance of the Binding class in your fragments:
      * <b>inflate()</b>
      * <b>bind()</b>
+
+### Feel free to checkout the relevant article in my medium page 
+https://medium.com/@r1n1os/the-new-generation-of-declaring-views-view-binding-8f3e14a3b814
